@@ -1,0 +1,3 @@
+version control
+basic commands like git init, git add, git commit, git status, git log, etc.
+branching and merging
